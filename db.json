@@ -16,6 +16,13 @@
 					"isFavorite" : true,
 					"toWatch" : false
 
+				},
+				{
+					"movieId" : 1096197,
+					"isWatched" : true,
+					"isFavorite" : true,
+					"toWatch" : false
+
 				}
 
 			],
@@ -23,6 +30,37 @@
 			"secondName" : "Doe",
 			"logInName" : "johndoe",
 			"password" : "123"
-		}		
+		},
+		{
+			"id" : 1,
+			"movies" : [ 
+				{
+					"movieId" : 241,
+					"isWatched" : true,
+					"isFavorite" : true,
+					"toWatch" : false
+
+				},
+				{
+					"movieId" : 550,
+					"isWatched" : true,
+					"isFavorite" : true,
+					"toWatch" : false
+
+				},
+				{
+					"movieId" : 1096197,
+					"isWatched" : true,
+					"isFavorite" : true,
+					"toWatch" : false
+
+				}
+
+			],
+			"firstName" : "Dave", 
+			"secondName" : "Robin",
+			"logInName" : "Dave",
+			"password" : "123"
+		}				
 	]
 }
