@@ -1,0 +1,28 @@
+{
+	"users" : [
+		{
+			"userId" : 1,
+			"movies" : [ 
+				{
+					"movieId" : 541,
+					"isWatched" : true,
+					"isFavorite" : true,
+					"ToWatch" : false
+
+				},
+				{
+					"movieId" : 540,
+					"isWatched" : true,
+					"isFavorite" : true,
+					"ToWatch" : false
+
+				}
+
+			],
+			"firstName" : "John",
+			"secondName" : "Doe",
+			"logInName" : "johndoe",
+			"password" : "123"
+		}		
+	]
+}
