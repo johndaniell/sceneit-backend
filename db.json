@@ -32,7 +32,7 @@
 			"password" : "123"
 		},
 		{
-			"id" : 1,
+			"id" : 2,
 			"movies" : [ 
 				{
 					"movieId" : 241,
@@ -61,6 +61,37 @@
 			"secondName" : "Robin",
 			"logInName" : "Dave",
 			"password" : "123"
-		}				
+		},
+		{
+			"id" : 3,
+			"movies" : [ 
+				{
+					"movieId" : 241,
+					"isWatched" : true,
+					"isFavorite" : true,
+					"toWatch" : false
+
+				},
+				{
+					"movieId" : 550,
+					"isWatched" : true,
+					"isFavorite" : true,
+					"toWatch" : false
+
+				},
+				{
+					"movieId" : 1096197,
+					"isWatched" : true,
+					"isFavorite" : true,
+					"toWatch" : false
+
+				}
+
+			],
+			"firstName" : "Jane", 
+			"secondName" : "DOe",
+			"logInName" : "janedoe",
+			"password" : "123"
+		}								
 	]
 }
