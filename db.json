@@ -19,7 +19,7 @@
 				}
 
 			],
-			"firstName" : "John",
+			"firstName" : "John", 
 			"secondName" : "Doe",
 			"logInName" : "johndoe",
 			"password" : "123"
