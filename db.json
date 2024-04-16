@@ -7,14 +7,14 @@
 					"movieId" : 541,
 					"isWatched" : true,
 					"isFavorite" : true,
-					"ToWatch" : false
+					"toWatch" : false
 
 				},
 				{
 					"movieId" : 540,
 					"isWatched" : true,
 					"isFavorite" : true,
-					"ToWatch" : false
+					"toWatch" : false
 
 				}
 
