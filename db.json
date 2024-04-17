@@ -12,6 +12,8 @@
 				},
 				{
 					"movieId" : 540,
+					"data" : {
+					},
 					"isWatched" : true,
 					"isFavorite" : true,
 					"toWatch" : false
@@ -28,7 +30,7 @@
 			],
 			"firstName" : "John", 
 			"secondName" : "Doe",
-			"logInName" : "johndoe",
+			"email" : "johndoe@mail.com",
 			"password" : "123"
 		},
 		{
@@ -59,7 +61,7 @@
 			],
 			"firstName" : "Dave", 
 			"secondName" : "Robin",
-			"logInName" : "Dave",
+			"email" : "Dave@mail.com",
 			"password" : "123"
 		},
 		{
@@ -89,8 +91,8 @@
 
 			],
 			"firstName" : "Jane", 
-			"secondName" : "DOe",
-			"logInName" : "janedoe",
+			"secondName" : "Doe",
+			"email" : "janedoe@mail.com",
 			"password" : "123"
 		}								
 	]
