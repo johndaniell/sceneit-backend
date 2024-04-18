@@ -59,5 +59,31 @@
       "email": "johndoe@mail.com",
       "password": "123"
     }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "userId": 1,
+      "movieId": 540,
+      "commenterName": "John Doe",
+      "text": "Really fun and quirky spy movie. Loved the visuals!",
+      "timestamp": "2024-04-01T12:34:56Z"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "movieId": 541,
+      "commenterName": "John Doe",
+      "text": "A classic that never gets old.",
+      "timestamp": "2024-04-02T08:30:00Z"
+    },
+    {
+      "id": 3,
+      "userId": 1,
+      "movieId": 1011985,
+      "commenterName": "John Doe",
+      "text": "Not as good as the first three, but still enjoyable.",
+      "timestamp": "2024-04-02T15:45:23Z"
+    }
   ]
 }
