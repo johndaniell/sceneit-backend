@@ -1,47 +1,63 @@
 {
-	"users" : [
-		{
-			"id" : 1,
-			"movies" : [ 
-				{
-					"movieId" : 541,
-					"poster_path" : "/3TUOhZhM5GCYIbxwFO3chpZ0DHx.jpg",
-					"title": "The Man with the Golden Arm",
-					"release_date" : "1955-12-26", 
-					"vote_average" : 7.1, 
-					"isWatched" : true,
-					"isFavorite" : false,
-					"toWatch" : false
-
-				},
-				{
-					"movieId" : 540,
-					"poster_path" : "/cMwLTcG5aVBYeh5W6SVSfowboAf.jpg",
-					"title": "D.E.B.S",
-					"release_date" : "2005-03-25", 
-					"vote_average" : 6.4, 
-					"isWatched" : false,
-					"isFavorite" : true,
-					"toWatch" : false
-
-				},
-				{
-					"movieId" : 1096197,
-					"poster_path" : "/hu40Uxp9WtpL34jv3zyWLb5zEVY.jpg",
-					"title": "No Way Up",
-					"release_date" : "2024-01-18", 
-					"vote_average" : 6.3, 
-					"isWatched" : false,
-					"isFavorite" : false,
-					"toWatch" : true
-
-				}
-
-			],
-			"firstName" : "John", 
-			"secondName" : "Doe",
-			"email" : "johndoe@mail.com",
-			"password" : "123"
-		}
-	]
+  "users": [
+    {
+      "id": 1,
+      "movies": [
+        {
+          "movieId": 541,
+          "poster_path": "/3TUOhZhM5GCYIbxwFO3chpZ0DHx.jpg",
+          "title": "The Man with the Golden Arm",
+          "release_date": "1955-12-26",
+          "vote_average": 7.1,
+          "isWatched": true,
+          "isFavorite": false,
+          "toWatch": false
+        },
+        {
+          "movieId": 540,
+          "poster_path": "/cMwLTcG5aVBYeh5W6SVSfowboAf.jpg",
+          "title": "D.E.B.S",
+          "release_date": "2005-03-25",
+          "vote_average": 6.4,
+          "isWatched": false,
+          "isFavorite": true,
+          "toWatch": false
+        },
+        {
+          "movieId": 1096197,
+          "poster_path": "/hu40Uxp9WtpL34jv3zyWLb5zEVY.jpg",
+          "title": "No Way Up",
+          "release_date": "2024-01-18",
+          "vote_average": 6.3,
+          "isWatched": false,
+          "isFavorite": false,
+          "toWatch": true
+        },
+        {
+          "movieId": 1011985,
+          "poster_path": "/kDp1vUBnMpe8ak4rjgl3cLELqjU.jpg",
+          "title": "Kung Fu Panda 4",
+          "release_date": "2024-03-02",
+          "vote_average": 7.156,
+          "isFavorite": true,
+          "isWatched": true,
+          "toWatch": false
+        },
+        {
+          "movieId": 278,
+          "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+          "title": "The Shawshank Redemption",
+          "release_date": "1994-09-23",
+          "vote_average": 8.704,
+          "isFavorite": true,
+          "isWatched": false,
+          "toWatch": false
+        }
+      ],
+      "firstName": "John",
+      "secondName": "Doe",
+      "email": "johndoe@mail.com",
+      "password": "123"
+    }
+  ]
 }
